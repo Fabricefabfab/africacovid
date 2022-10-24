@@ -57,7 +57,7 @@
                         <nav class="site-navbar">
                            <ul>
                               <li><a class="active" href="index.html">Home</a></li>
-                              <li><a href="about.html">About</a></li>
+                              <li><a href="about.php">About</a></li>
                               <li><a href="action.html">take action</a></li>
                               <li><a href="distcenters.php" class="logo_midle">Folder</a></li>
                               <li><a href="news.html">Spread</a></li>
@@ -314,7 +314,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
                            <div class="hedingh3 text_align_left">
                               <h3>Resources</h3>
                               <ul class="menu_footer">
-                                 <li><a href="index.html">Home</a><li>
+                                 <li><a href="index.php">Home</a><li>
                                  <li><a href="javascript:void(0)">What we do</a><li>
                                  <li> <a href="javascript:void(0)">Media</a><li>
                                  <li> <a href="javascript:void(0)">Travel Advice</a><li>
