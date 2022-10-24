@@ -79,7 +79,7 @@ if(!$conn){
                      <div class="navbar-area">
                         <nav class="site-navbar">
                            <ul>
-                             <li><a  href="index.html">Home</a></li>
+                             <li><a  href="index.php">Home</a></li>
                               <li><a href="about.html">About</a></li>
                               <li><a href="action.html">take action</a></li>
                               <li><a class="active" href="distcenters.php" class="logo_midle">centers</a></li>
