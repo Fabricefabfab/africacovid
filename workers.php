@@ -67,7 +67,7 @@ if(!$conn){
                <a href="Javascript:void(0)"><i class="fa fa-search" aria-hidden="true"></i></a>
             </div>
            <div class="right">
-               <a href="index.html" ><i class="fa fa-home" aria-hidden="true"></i></a>
+               <a href="index.php" ><i class="fa fa-home" aria-hidden="true"></i></a>
             </div>
             <div class="container">
                <div class="row d_flex">
