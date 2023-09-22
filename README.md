@@ -8,7 +8,6 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project aims to provide a solution to the lack of clear information about COVID-19 vaccines, their availability, and associated vaccination schedules. The goal is to encourage vaccination by raising awareness and offering precise information to the public.
