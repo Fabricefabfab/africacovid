@@ -34,7 +34,7 @@ To run this project locally or deploy it to your server, follow these steps:
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/Fabricefabfab/africacovid.git
 
 
 2.	Set up your MySQL database and configure the database connection in config.php.
