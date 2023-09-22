@@ -1,6 +1,6 @@
 # COVID-19 Vaccination Tracking Directory
 
-## Table of Contents
+## 📗 Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -22,14 +22,14 @@ As part of our solution to address vaccine hesitancy and promote vaccination, we
 - Real-time vaccine stock updates
 - Vaccination statistics for informed decision-making
 
-## Technologies Used
+## 💻 Technologies Used
 - HTML and CSS for front-end design
 - Bootstrap for responsive web layout
 - MySQL for database management
 - JavaScript for dynamic web elements
 - PHP for back-end data retrieval and processing
 
-## Getting Started
+## 📖 Getting Started
 To run this project locally or deploy it to your server, follow these steps:
 
 1. Clone this repository to your local machine:
@@ -46,7 +46,7 @@ Usage
 •	The directory provides real-time information on vaccine availability, delivery schedules, and stock levels.
 •	Users can view vaccination statistics to make informed decisions about vaccination.
 
-## Contributing
+## 🤝Contributing
 We welcome contributions from the community to improve this project. If you'd like to contribute, please follow these steps:
 1.	Fork the repository.
 2.	Create a new branch for your feature or bug fix.
