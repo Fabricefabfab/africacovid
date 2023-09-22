@@ -1,4 +1,4 @@
-# COVID-19 Vaccination Directory
+# COVID-19 Vaccination Tracking Directory
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -46,7 +46,7 @@ Usage
 •	The directory provides real-time information on vaccine availability, delivery schedules, and stock levels.
 •	Users can view vaccination statistics to make informed decisions about vaccination.
 
-Contributing
+## Contributing
 We welcome contributions from the community to improve this project. If you'd like to contribute, please follow these steps:
 1.	Fork the repository.
 2.	Create a new branch for your feature or bug fix.
